@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+public/assets/
+/coverage
+/.nyc_output
+.out/
+out*/
+
+# lock files
+#
+yarn.lock
+package-lock.json
+.npmrc
